@@ -4,4 +4,4 @@
 # Conctac Me page contains JS conference talk videos and sticky form.
  ## 3 page web site with sticky form
 
-# This is capstone project from UCSC Javascript and php course.
+# This is an independent capstone project while learning about php serverside scripting.
